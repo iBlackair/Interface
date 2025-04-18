@@ -1,0 +1,1 @@
+It modifies olympiad arenas. All gates are removed. On 4 pillars arena there're no statues. On Fountain arena as well. If you dont want this changes, dont place the file.

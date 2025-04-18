@@ -1,0 +1,1552 @@
+Log: Log file open, 10/05/23 22:17:58
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
+Init: Version: 3016 (123.0)
+Init: Compiled: May 14 2016 20:42:29
+Init: Command line: -NoBind
+Init: Base directory: C:\Users\Shane\Desktop\Deadz_Source\System\
+Init: Character set: Unicode
+Warning: Build label absent!
+Log: Bound to Core.dll
+Init: Object subsystem initialized
+Init: Computer: DESKTOP9D0CQTU
+Init: User: Shane
+Init: CPU Page size=4096, Processors=12
+Init: CPU Detected: Unknown processor (AuthenticAMD)
+Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
+Init: CPU Speed=3599.363040 MHz
+Init: Memory total: Phys=2097151K Pagef=4194303K Virt=2097024K
+Init: Working set: 32000 / 159000
+Log: Bound to Editor.dll
+Log: Bound to Engine.dll
+Log: Executing Class Editor.MakeCommandlet
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Log: Unreal file tag: -1641380927
+Warning: Failed to load 'Core': Can't find file for package 'Core'
+Init: Unreal engine initialized
+Heading: ----------------------------Core - Release----------------------------
+Warning: Failed to load 'Core.u': Can't find file 'Core.u'
+Warning: Failed loading package: Can't find file 'Core.u'
+Log: Analyzing...
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Core\Classes\Commandlet.uc)
+Log: Class: Commandlet extends Object
+Log: Updated native class 'Class Core.Commandlet'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Core\Classes\Locale.uc)
+Log: Class: Locale extends Object
+Log: Imported: Class Core.Locale
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Core\Classes\Object.uc)
+Log: Class: Object extends Vector
+Log: Updated native class 'Class Core.Object'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Core\Classes\ParamStack.uc)
+Log: Class: ParamStack extends object
+Log: Imported: Class Core.ParamStack
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Core\Classes\Subsystem.uc)
+Log: Class: Subsystem extends Object
+Log: Updated native class 'Class Core.Subsystem'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Core\Classes\Time.uc)
+Log: Class: Time extends Object
+Log: Imported: Class Core.Time
+Log: Parsing Object
+Log: Parsing Subsystem
+Log: Parsing Commandlet
+Log: Parsing Locale
+Log: Parsing ParamStack
+Log: Parsing Time
+Log: Compiling Object
+Log: Compiling Subsystem
+Log: Compiling Commandlet
+Log: Compiling Locale
+Log: Compiling ParamStack
+Log: Compiling Time
+Log: Importing Defaults for Object
+Log: Importing Defaults for Subsystem
+Log: Importing Defaults for Commandlet
+Log: Importing Defaults for Locale
+Log: Importing Defaults for ParamStack
+Log: Importing Defaults for Time
+Log: Success: Compiled 851 line(s), 258 statement(s).
+
+Log: Unreal file tag: -1641380927
+Log: Unreal file tag: -1641380927
+Log: Save=4.981103
+Log: Moving 'Save.tmp' to 'Core.u'
+Heading: ---------------------------Engine - Release---------------------------
+Warning: Failed to load 'Engine.u': Can't find file 'Engine.u'
+Warning: Failed loading package: Can't find file 'Engine.u'
+Log: Analyzing...
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AccessControl.uc)
+Log: Class: AccessControl extends Info
+Log: Imported: Class Engine.AccessControl
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ActionMoveCamera.uc)
+Log: Class: ActionMoveCamera extends MatAction
+Log: Updated native class 'Class Engine.ActionMoveCamera'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ActionPause.uc)
+Log: Class: ActionPause extends MatAction
+Log: Updated native class 'Class Engine.ActionPause'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Actor.uc)
+Log: Class: Actor extends Object
+Log: Updated native class 'Class Engine.Actor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Admin.uc)
+Log: Class: Admin extends AdminBase
+Log: Imported: Class Engine.Admin
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AdminBase.uc)
+Log: Class: AdminBase extends Object
+Log: Updated native class 'Class Engine.AdminBase'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AIController.uc)
+Log: Class: AIController extends Controller
+Log: Updated native class 'Class Engine.AIController'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AIMarker.uc)
+Log: Class: AIMarker extends SmallNavigationPoint
+Log: Updated native class 'Class Engine.AIMarker'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AIScript.uc)
+Log: Class: AIScript extends Keypoint
+Log: Updated native class 'Class Engine.AIScript'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AmbientSound.uc)
+Log: Class: AmbientSound extends Keypoint
+Log: Updated native class 'Class Engine.AmbientSound'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Ammo.uc)
+Log: Class: Ammo extends Pickup
+Log: Updated native class 'Class Engine.Ammo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Ammunition.uc)
+Log: Class: Ammunition extends Inventory
+Log: Updated native class 'Class Engine.Ammunition'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify.uc)
+Log: Class: AnimNotify extends Object
+Log: Updated native class 'Class Engine.AnimNotify'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify_DestroyEffect.uc)
+Log: Class: AnimNotify_DestroyEffect extends AnimNotify
+Log: Updated native class 'Class Engine.AnimNotify_DestroyEffect'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify_Effect.uc)
+Log: Class: AnimNotify_Effect extends AnimNotify
+Log: Updated native class 'Class Engine.AnimNotify_Effect'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify_MatSubAction.uc)
+Log: Class: AnimNotify_MatSubAction extends AnimNotify
+Log: Updated native class 'Class Engine.AnimNotify_MatSubAction'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify_Script.uc)
+Log: Class: AnimNotify_Script extends AnimNotify
+Log: Updated native class 'Class Engine.AnimNotify_Script'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify_Scripted.uc)
+Log: Class: AnimNotify_Scripted extends AnimNotify
+Log: Updated native class 'Class Engine.AnimNotify_Scripted'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify_Sound.uc)
+Log: Class: AnimNotify_Sound extends AnimNotify
+Log: Updated native class 'Class Engine.AnimNotify_Sound'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AnimNotify_Trigger.uc)
+Log: Class: AnimNotify_Trigger extends AnimNotify_Scripted
+Log: Imported: Class Engine.AnimNotify_Trigger
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AntiPortalActor.uc)
+Log: Class: AntiPortalActor extends Actor
+Log: Updated native class 'Class Engine.AntiPortalActor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Armor.uc)
+Log: Class: Armor extends Powerups
+Log: Imported: Class Engine.Armor
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ArmorPickup.uc)
+Log: Class: ArmorPickup extends Pickup
+Log: Imported: Class Engine.ArmorPickup
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AutoDoor.uc)
+Log: Class: AutoDoor extends Door
+Log: Updated native class 'Class Engine.AutoDoor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AutoLadder.uc)
+Log: Class: AutoLadder extends Ladder
+Log: Updated native class 'Class Engine.AutoLadder'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\AvoidMarker.uc)
+Log: Class: AvoidMarker extends Triggers
+Log: Updated native class 'Class Engine.AvoidMarker'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\BaseGUIController.uc)
+Log: Class: BaseGUIController extends Interaction
+Log: Updated native class 'Class Engine.BaseGUIController'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\BeamEmitter.uc)
+Log: Class: BeamEmitter extends ParticleEmitter
+Log: Updated native class 'Class Engine.BeamEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Bitmap.uc)
+Log: Class: Bitmap extends Object
+Log: Imported: Class Engine.Bitmap
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\BitmapMaterial.uc)
+Log: Class: BitmapMaterial extends RenderedMaterial
+Log: Updated native class 'Class Engine.BitmapMaterial'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\BlockingVolume.uc)
+Log: Class: BlockingVolume extends Volume
+Log: Updated native class 'Class Engine.BlockingVolume'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\BroadcastHandler.uc)
+Log: Class: BroadcastHandler extends Info
+Log: Imported: Class Engine.BroadcastHandler
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Brush.uc)
+Log: Class: Brush extends Actor
+Log: Updated native class 'Class Engine.Brush'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Camera.uc)
+Log: Class: Camera extends PlayerController
+Log: Updated native class 'Class Engine.Camera'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\CameraEffect.uc)
+Log: Class: CameraEffect extends Object
+Log: Updated native class 'Class Engine.CameraEffect'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\CameraOverlay.uc)
+Log: Class: CameraOverlay extends CameraEffect
+Log: Updated native class 'Class Engine.CameraOverlay'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Canvas.uc)
+Log: Class: Canvas extends Object
+Log: Updated native class 'Class Engine.Canvas'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\CarriedObject.uc)
+Log: Class: CarriedObject extends Actor
+Log: Imported: Class Engine.CarriedObject
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\CheatManager.uc)
+Log: Class: CheatManager extends Object
+Log: Updated native class 'Class Engine.CheatManager'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ClipMarker.uc)
+Log: Class: ClipMarker extends Keypoint
+Log: Updated native class 'Class Engine.ClipMarker'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ColorMask.uc)
+Log: Class: ColorMask extends RealtimeGenerationTexture
+Log: Imported: Class Engine.ColorMask
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ColorModifier.uc)
+Log: Class: ColorModifier extends Modifier
+Log: Updated native class 'Class Engine.ColorModifier'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ColorWheel.uc)
+Log: Class: ColorWheel extends Texture
+Log: Imported: Class Engine.ColorWheel
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Combiner.uc)
+Log: Class: Combiner extends Material
+Log: Updated native class 'Class Engine.Combiner'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Console.uc)
+Log: Class: Console extends Interaction
+Log: Updated native class 'Class Engine.Console'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ConstantColor.uc)
+Log: Class: ConstantColor extends ConstantMaterial
+Log: Updated native class 'Class Engine.ConstantColor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ConstantMaterial.uc)
+Log: Class: ConstantMaterial extends RenderedMaterial
+Log: Updated native class 'Class Engine.ConstantMaterial'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Controller.uc)
+Log: Class: Controller extends Actor
+Log: Updated native class 'Class Engine.Controller'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Crushed.uc)
+Log: Class: Crushed extends DamageType
+Log: Imported: Class Engine.Crushed
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Cubemap.uc)
+Log: Class: Cubemap extends Texture
+Log: Updated native class 'Class Engine.Cubemap'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\DamageType.uc)
+Log: Class: DamageType extends Actor
+Log: Updated native class 'Class Engine.DamageType'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\DamTypeTelefragged.uc)
+Log: Class: DamTypeTelefragged extends DamageType
+Log: Imported: Class Engine.DamTypeTelefragged
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Decal.uc)
+Log: Class: Decal extends Actor
+Log: Imported: Class Engine.Decal
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Decoration.uc)
+Log: Class: Decoration extends Actor
+Log: Updated native class 'Class Engine.Decoration'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\DecorationList.uc)
+Log: Class: DecorationList extends KeyPoint
+Log: Updated native class 'Class Engine.DecorationList'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\DecoVolumeObject.uc)
+Log: Class: DecoVolumeObject extends Actor
+Log: Updated native class 'Class Engine.DecoVolumeObject'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\DefaultPhysicsVolume.uc)
+Log: Class: DefaultPhysicsVolume extends PhysicsVolume
+Log: Updated native class 'Class Engine.DefaultPhysicsVolume'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\DemoRecSpectator.uc)
+Log: Class: DemoRecSpectator extends MessagingSpectator
+Log: Imported: Class Engine.DemoRecSpectator
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Door.uc)
+Log: Class: Door extends NavigationPoint
+Log: Updated native class 'Class Engine.Door'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\DynamicProjector.uc)
+Log: Class: DynamicProjector extends Projector
+Log: Imported: Class Engine.DynamicProjector
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Effects.uc)
+Log: Class: Effects extends Actor
+Log: Imported: Class Engine.Effects
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Emitter.uc)
+Log: Class: Emitter extends Actor
+Log: Updated native class 'Class Engine.Emitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Engine.uc)
+Log: Class: Engine extends Subsystem
+Log: Updated native class 'Class Engine.Engine'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ExtraMeshData.uc)
+Log: Class: ExtraMeshData extends Object
+Log: Imported: Class Engine.ExtraMeshData
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\FadeColor.uc)
+Log: Class: FadeColor extends ConstantMaterial
+Log: Updated native class 'Class Engine.FadeColor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\FailedConnect.uc)
+Log: Class: FailedConnect extends LocalMessage
+Log: Imported: Class Engine.FailedConnect
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\fell.uc)
+Log: Class: Fell extends DamageType
+Log: Imported: Class Engine.fell
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\FellLava.uc)
+Log: Class: FellLava extends Fell
+Log: Imported: Class Engine.FellLava
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\FileLog.uc)
+Log: Class: FileLog extends Info
+Log: Updated native class 'Class Engine.FileLog'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\FinalBlend.uc)
+Log: Class: FinalBlend extends Modifier
+Log: Updated native class 'Class Engine.FinalBlend'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\FluidSurfaceInfo.uc)
+Log: Class: FluidSurfaceInfo extends Info
+Log: Updated native class 'Class Engine.FluidSurfaceInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\FluidSurfaceOscillator.uc)
+Log: Class: FluidSurfaceOscillator extends Actor
+Log: Updated native class 'Class Engine.FluidSurfaceOscillator'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Fragment.uc)
+Log: Class: Fragment extends Effects
+Log: Imported: Class Engine.Fragment
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GameEngine.uc)
+Log: Class: GameEngine extends Engine
+Log: Updated native class 'Class Engine.GameEngine'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GameInfo.uc)
+Log: Class: GameInfo extends Info
+Log: Updated native class 'Class Engine.GameInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GameMessage.uc)
+Log: Class: GameMessage extends LocalMessage
+Log: Imported: Class Engine.GameMessage
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GameProfile.uc)
+Log: Class: GameProfile extends Object
+Log: Updated native class 'Class Engine.GameProfile'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GameReplicationInfo.uc)
+Log: Class: GameReplicationInfo extends ReplicationInfo
+Log: Updated native class 'Class Engine.GameReplicationInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GameRules.uc)
+Log: Class: GameRules extends Info
+Log: Imported: Class Engine.GameRules
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GameStats.uc)
+Log: Class: GameStats extends Info
+Log: Updated native class 'Class Engine.GameStats'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Gibbed.uc)
+Log: Class: Gibbed extends DamageType
+Log: Imported: Class Engine.Gibbed
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\GlowModifier.uc)
+Log: Class: GlowModifier extends Modifier
+Log: Imported: Class Engine.GlowModifier
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\HUD.uc)
+Log: Class: Hud extends Actor
+Log: Updated native class 'Class Engine.HUD'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\I3DL2Listener.uc)
+Log: Class: I3DL2Listener extends Object
+Log: Updated native class 'Class Engine.I3DL2Listener'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Info.uc)
+Log: Class: Info extends Actor
+Log: Updated native class 'Class Engine.Info'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Interaction.uc)
+Log: Class: Interaction extends Interactions
+Log: Updated native class 'Class Engine.Interaction'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\InteractionMaster.uc)
+Log: Class: InteractionMaster extends Interactions
+Log: Updated native class 'Class Engine.InteractionMaster'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Interactions.uc)
+Log: Class: Interactions extends Object
+Log: Updated native class 'Class Engine.Interactions'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\InternetInfo.uc)
+Log: Class: InternetInfo extends Info
+Log: Updated native class 'Class Engine.InternetInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\InterpolationPoint.uc)
+Log: Class: InterpolationPoint extends Keypoint
+Log: Updated native class 'Class Engine.InterpolationPoint'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Inventory.uc)
+Log: Class: Inventory extends Actor
+Log: Updated native class 'Class Engine.Inventory'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\InventoryAttachment.uc)
+Log: Class: InventoryAttachment extends Actor
+Log: Updated native class 'Class Engine.InventoryAttachment'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\InventorySpot.uc)
+Log: Class: InventorySpot extends SmallNavigationPoint
+Log: Updated native class 'Class Engine.InventorySpot'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\JumpDest.uc)
+Log: Class: JumpDest extends NavigationPoint
+Log: Updated native class 'Class Engine.JumpDest'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\JumpPad.uc)
+Log: Class: JumpPad extends NavigationPoint
+Log: Updated native class 'Class Engine.JumpPad'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KActor.uc)
+Log: Class: KActor extends Actor
+Log: Updated native class 'Class Engine.KActor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KarmaParams.uc)
+Log: Class: KarmaParams extends KarmaParamsCollision
+Log: Updated native class 'Class Engine.KarmaParams'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KarmaParamsCollision.uc)
+Log: Class: KarmaParamsCollision extends Object
+Log: Updated native class 'Class Engine.KarmaParamsCollision'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KarmaParamsRBFull.uc)
+Log: Class: KarmaParamsRBFull extends KarmaParams
+Log: Updated native class 'Class Engine.KarmaParamsRBFull'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KarmaParamsSkel.uc)
+Log: Class: KarmaParamsSkel extends KarmaParams
+Log: Updated native class 'Class Engine.KarmaParamsSkel'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KBSJoint.uc)
+Log: Class: KBSJoint extends KConstraint
+Log: Updated native class 'Class Engine.KBSJoint'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KCarWheelJoint.uc)
+Log: Class: KCarWheelJoint extends KConstraint
+Log: Updated native class 'Class Engine.KCarWheelJoint'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KConeLimit.uc)
+Log: Class: KConeLimit extends KConstraint
+Log: Updated native class 'Class Engine.KConeLimit'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KConstraint.uc)
+Log: Class: KConstraint extends KActor
+Log: Updated native class 'Class Engine.KConstraint'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Keypoint.uc)
+Log: Class: Keypoint extends Actor
+Log: Updated native class 'Class Engine.Keypoint'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KHinge.uc)
+Log: Class: KHinge extends KConstraint
+Log: Updated native class 'Class Engine.KHinge'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KTire.uc)
+Log: Class: KTire extends KActor
+Log: Updated native class 'Class Engine.KTire'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KVehicle.uc)
+Log: Class: KVehicle extends Pawn
+Log: Updated native class 'Class Engine.KVehicle'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\KVehicleFactory.uc)
+Log: Class: KVehicleFactory extends Actor
+Log: Imported: Class Engine.KVehicleFactory
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2Alarm.uc)
+Log: Class: L2Alarm extends Actor
+Log: Imported: Class Engine.L2Alarm
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2CenterdDiamond.uc)
+Log: Class: L2CenterdDiamond extends Actor
+Log: Imported: Class Engine.L2CenterdDiamond
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2ColorModifier.uc)
+Log: Class: L2ColorModifier extends Modifier
+Log: Imported: Class Engine.L2ColorModifier
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2Dice.uc)
+Log: Class: L2Dice extends Actor
+Log: Imported: Class Engine.L2Dice
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2EffectEmitter.uc)
+Log: Class: L2EffectEmitter extends Object
+Log: Imported: Class Engine.L2EffectEmitter
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2Float.uc)
+Log: Class: L2Float extends Actor
+Log: Imported: Class Engine.L2Float
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2FogInfo.uc)
+Log: Class: L2FogInfo extends Info
+Log: Imported: Class Engine.L2FogInfo
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2Indicator.uc)
+Log: Class: L2Indicator extends Emitter
+Log: Imported: Class Engine.L2Indicator
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2MovableStaticMeshActor.uc)
+Log: Class: L2MovableStaticMeshActor extends StaticMeshActor
+Log: Imported: Class Engine.L2MovableStaticMeshActor
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2NMover.uc)
+Log: Class: L2NMover extends Actor
+Log: Imported: Class Engine.L2NMover
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\L2SkillEffect.uc)
+Log: Class: L2SkillEffect extends Object
+Log: Imported: Class Engine.L2SkillEffect
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Ladder.uc)
+Log: Class: Ladder extends SmallNavigationPoint
+Log: Updated native class 'Class Engine.Ladder'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LadderInfo.uc)
+Log: Class: LadderInfo extends Object
+Log: Imported: Class Engine.LadderInfo
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LadderVolume.uc)
+Log: Class: LadderVolume extends PhysicsVolume
+Log: Updated native class 'Class Engine.LadderVolume'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LevelInfo.uc)
+Log: Class: LevelInfo extends ZoneInfo
+Log: Updated native class 'Class Engine.LevelInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LevelSummary.uc)
+Log: Class: LevelSummary extends Object
+Log: Updated native class 'Class Engine.LevelSummary'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LiftCenter.uc)
+Log: Class: LiftCenter extends NavigationPoint
+Log: Updated native class 'Class Engine.LiftCenter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LiftExit.uc)
+Log: Class: LiftExit extends NavigationPoint
+Log: Updated native class 'Class Engine.LiftExit'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Light.uc)
+Log: Class: Light extends Actor
+Log: Updated native class 'Class Engine.Light'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LineOfSightTrigger.uc)
+Log: Class: LineOfSightTrigger extends Triggers
+Log: Updated native class 'Class Engine.LineOfSightTrigger'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LocalMessage.uc)
+Log: Class: LocalMessage extends Info
+Log: Imported: Class Engine.LocalMessage
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LogEntry.uc)
+Log: Class: LogEntry extends Object
+Log: Updated native class 'Class Engine.LogEntry'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\LookTarget.uc)
+Log: Class: LookTarget extends KeyPoint
+Log: Updated native class 'Class Engine.LookTarget'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Manifest.uc)
+Log: Class: Manifest extends Object
+Log: Updated native class 'Class Engine.Manifest'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MapList.uc)
+Log: Class: MapList extends Info
+Log: Imported: Class Engine.MapList
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MarkProjector.uc)
+Log: Class: MarkProjector extends Projector
+Log: Imported: Class Engine.MarkProjector
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MaskTexture.uc)
+Log: Class: MaskTexture extends Texture
+Log: Imported: Class Engine.MaskTexture
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MatAction.uc)
+Log: Class: MatAction extends MatObject
+Log: Updated native class 'Class Engine.MatAction'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MatchInfo.uc)
+Log: Class: MatchInfo extends Object
+Log: Imported: Class Engine.MatchInfo
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MatDemoActor.uc)
+Log: Class: MatDemoActor extends Actor
+Log: Updated native class 'Class Engine.MatDemoActor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Material.uc)
+Log: Class: Material extends Object
+Log: Updated native class 'Class Engine.Material'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MaterialSequence.uc)
+Log: Class: MaterialSequence extends Modifier
+Log: Updated native class 'Class Engine.MaterialSequence'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MaterialSwitch.uc)
+Log: Class: MaterialSwitch extends Modifier
+Log: Updated native class 'Class Engine.MaterialSwitch'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MaterialTrigger.uc)
+Log: Class: MaterialTrigger extends Triggers
+Log: Imported: Class Engine.MaterialTrigger
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MatObject.uc)
+Log: Class: MatObject extends Object
+Log: Updated native class 'Class Engine.MatObject'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MatSubAction.uc)
+Log: Class: MatSubAction extends MatObject
+Log: Updated native class 'Class Engine.MatSubAction'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MeshComponent.uc)
+Log: Class: MeshComponent extends Object
+Log: Imported: Class Engine.MeshComponent
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MeshContainer.uc)
+Log: Class: MeshContainer extends Object
+Log: Imported: Class Engine.MeshContainer
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MeshEmitter.uc)
+Log: Class: MeshEmitter extends ParticleEmitter
+Log: Updated native class 'Class Engine.MeshEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MeshObject.uc)
+Log: Class: MeshObject extends Object
+Log: Updated native class 'Class Engine.MeshObject'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MessagingSpectator.uc)
+Log: Class: MessagingSpectator extends PlayerController
+Log: Imported: Class Engine.MessagingSpectator
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Modifier.uc)
+Log: Class: Modifier extends Material
+Log: Updated native class 'Class Engine.Modifier'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MotionBlur.uc)
+Log: Class: MotionBlur extends CameraEffect
+Log: Updated native class 'Class Engine.MotionBlur'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Mover.uc)
+Log: Class: Mover extends Actor
+Log: Updated native class 'Class Engine.Mover'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\MusicTrigger.uc)
+Log: Class: MusicTrigger extends Triggers
+Log: Imported: Class Engine.MusicTrigger
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Mutator.uc)
+Log: Class: Mutator extends Info
+Log: Updated native class 'Class Engine.Mutator'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\NAgathion.uc)
+Log: Class: NAgathion extends Pawn
+Log: Imported: Class Engine.NAgathion
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\NavigationPoint.uc)
+Log: Class: NavigationPoint extends Actor
+Log: Updated native class 'Class Engine.NavigationPoint'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\NCubics.uc)
+Log: Class: NCubics extends Emitter
+Log: Imported: Class Engine.NCubics
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\NLine.uc)
+Log: Class: NLine extends Actor
+Log: Imported: Class Engine.NLine
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\NMoon.uc)
+Log: Class: NMoon extends Actor
+Log: Imported: Class Engine.NMoon
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Note.uc)
+Log: Class: Note extends Actor
+Log: Updated native class 'Class Engine.Note'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\NProjectile.uc)
+Log: Class: NProjectile extends Emitter
+Log: Imported: Class Engine.NProjectile
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\NSkillProjectile.uc)
+Log: Class: NSkillProjectile extends NProjectile
+Log: Imported: Class Engine.NSkillProjectile
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ObjectPool.uc)
+Log: Class: ObjectPool extends Object
+Log: Imported: Class Engine.ObjectPool
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\OpacityModifier.uc)
+Log: Class: OpacityModifier extends Modifier
+Log: Updated native class 'Class Engine.OpacityModifier'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Palette.uc)
+Log: Class: Palette extends Object
+Log: Updated native class 'Class Engine.Palette'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ParticleEmitter.uc)
+Log: Class: ParticleEmitter extends Object
+Log: Updated native class 'Class Engine.ParticleEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ParticleMaterial.uc)
+Log: Class: ParticleMaterial extends RenderedMaterial
+Log: Updated native class 'Class Engine.ParticleMaterial'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PathNode.uc)
+Log: Class: PathNode extends NavigationPoint
+Log: Updated native class 'Class Engine.PathNode'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Pawn.uc)
+Log: Class: Pawn extends Actor
+Log: Updated native class 'Class Engine.Pawn'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PawnSheathingMgr.uc)
+Log: Class: PawnSheathingMgr extends Object
+Log: Imported: Class Engine.PawnSheathingMgr
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PhysicsVolume.uc)
+Log: Class: PhysicsVolume extends Volume
+Log: Updated native class 'Class Engine.PhysicsVolume'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Pickup.uc)
+Log: Class: Pickup extends Actor
+Log: Updated native class 'Class Engine.Pickup'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Player.uc)
+Log: Class: Player extends Object
+Log: Updated native class 'Class Engine.Player'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PlayerController.uc)
+Log: Class: PlayerController extends Controller
+Log: Updated native class 'Class Engine.PlayerController'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PlayerInput.uc)
+Log: Class: PlayerInput extends Object
+Log: Updated native class 'Class Engine.PlayerInput'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PlayerReplicationInfo.uc)
+Log: Class: PlayerReplicationInfo extends ReplicationInfo
+Log: Updated native class 'Class Engine.PlayerReplicationInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PlayerStart.uc)
+Log: Class: PlayerStart extends SmallNavigationPoint
+Log: Updated native class 'Class Engine.PlayerStart'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PlayInfo.uc)
+Log: Class: PlayInfo extends object
+Log: Updated native class 'Class Engine.PlayInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PolyMarker.uc)
+Log: Class: PolyMarker extends Keypoint
+Log: Updated native class 'Class Engine.PolyMarker'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PotentialClimbWatcher.uc)
+Log: Class: PotentialClimbWatcher extends Info
+Log: Updated native class 'Class Engine.PotentialClimbWatcher'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Powerups.uc)
+Log: Class: Powerups extends Inventory
+Log: Updated native class 'Class Engine.Powerups'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\PrecacheHack.uc)
+Log: Class: PrecacheHack extends Actor
+Log: Updated native class 'Class Engine.PrecacheHack'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ProceduralSound.uc)
+Log: Class: ProceduralSound extends Sound
+Log: Updated native class 'Class Engine.ProceduralSound'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Projectile.uc)
+Log: Class: Projectile extends Actor
+Log: Updated native class 'Class Engine.Projectile'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Projector.uc)
+Log: Class: Projector extends Actor
+Log: Updated native class 'Class Engine.Projector'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ProjectorMaterial.uc)
+Log: Class: ProjectorMaterial extends RenderedMaterial
+Log: Updated native class 'Class Engine.ProjectorMaterial'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ReachSpec.uc)
+Log: Class: ReachSpec extends Object
+Log: Updated native class 'Class Engine.ReachSpec'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\RealtimeGenerationTexture.uc)
+Log: Class: RealtimeGenerationTexture extends Texture
+Log: Imported: Class Engine.RealtimeGenerationTexture
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\RenderedMaterial.uc)
+Log: Class: RenderedMaterial extends Material
+Log: Updated native class 'Class Engine.RenderedMaterial'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ReplicationInfo.uc)
+Log: Class: ReplicationInfo extends Info
+Log: Updated native class 'Class Engine.ReplicationInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Resource.uc)
+Log: Class: Resource extends Object
+Log: Imported: Class Engine.Resource
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SavedMove.uc)
+Log: Class: SavedMove extends Info
+Log: Updated native class 'Class Engine.SavedMove'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SceneManager.uc)
+Log: Class: SceneManager extends Info
+Log: Updated native class 'Class Engine.SceneManager'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ScoreBoard.uc)
+Log: Class: ScoreBoard extends Info
+Log: Imported: Class Engine.ScoreBoard
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Scout.uc)
+Log: Class: Scout extends Pawn
+Log: Updated native class 'Class Engine.Scout'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ScriptedTexture.uc)
+Log: Class: ScriptedTexture extends BitmapMaterial
+Log: Updated native class 'Class Engine.ScriptedTexture'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Security.uc)
+Log: Class: Security extends Info
+Log: Updated native class 'Class Engine.Security'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Shader.uc)
+Log: Class: Shader extends RenderedMaterial
+Log: Updated native class 'Class Engine.Shader'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ShadowBitmapMaterial.uc)
+Log: Class: ShadowBitmapMaterial extends BitmapMaterial
+Log: Updated native class 'Class Engine.ShadowBitmapMaterial'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ShadowProjector.uc)
+Log: Class: ShadowProjector extends Projector
+Log: Imported: Class Engine.ShadowProjector
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SimulationCollision.uc)
+Log: Class: SimulationCollision extends Object
+Log: Imported: Class Engine.SimulationCollision
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SkyZoneInfo.uc)
+Log: Class: SkyZoneInfo extends ZoneInfo
+Log: Updated native class 'Class Engine.SkyZoneInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SmallNavigationPoint.uc)
+Log: Class: SmallNavigationPoint extends NavigationPoint
+Log: Updated native class 'Class Engine.SmallNavigationPoint'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Sound.uc)
+Log: Class: Sound extends Object
+Log: Updated native class 'Class Engine.Sound'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SoundGroup.uc)
+Log: Class: SoundGroup extends Sound
+Log: Updated native class 'Class Engine.SoundGroup'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SparkEmitter.uc)
+Log: Class: SparkEmitter extends ParticleEmitter
+Log: Updated native class 'Class Engine.SparkEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Spline.uc)
+Log: Class: Spline extends Object
+Log: Updated native class 'Class Engine.Spline'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SpriteEmitter.uc)
+Log: Class: SpriteEmitter extends ParticleEmitter
+Log: Updated native class 'Class Engine.SpriteEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\StaticMeshActor.uc)
+Log: Class: StaticMeshActor extends Actor
+Log: Updated native class 'Class Engine.StaticMeshActor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionCameraEffect.uc)
+Log: Class: SubActionCameraEffect extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionCameraEffect'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionCameraShake.uc)
+Log: Class: SubActionCameraShake extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionCameraShake'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionFade.uc)
+Log: Class: SubActionFade extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionFade'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionFOV.uc)
+Log: Class: SubActionFOV extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionFOV'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionGameSpeed.uc)
+Log: Class: SubActionGameSpeed extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionGameSpeed'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionOrientation.uc)
+Log: Class: SubActionOrientation extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionOrientation'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionSceneSpeed.uc)
+Log: Class: SubActionSceneSpeed extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionSceneSpeed'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\SubActionTrigger.uc)
+Log: Class: SubActionTrigger extends MatSubAction
+Log: Updated native class 'Class Engine.SubActionTrigger'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Suicided.uc)
+Log: Class: Suicided extends DamageType
+Log: Imported: Class Engine.Suicided
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TeamInfo.uc)
+Log: Class: TeamInfo extends ReplicationInfo
+Log: Updated native class 'Class Engine.TeamInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Teleporter.uc)
+Log: Class: Teleporter extends SmallNavigationPoint
+Log: Updated native class 'Class Engine.Teleporter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TerrainInfo.uc)
+Log: Class: TerrainInfo extends Info
+Log: Updated native class 'Class Engine.TerrainInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TerrainMaterial.uc)
+Log: Class: TerrainMaterial extends RenderedMaterial
+Log: Updated native class 'Class Engine.TerrainMaterial'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexCoordSource.uc)
+Log: Class: TexCoordSource extends TexModifier
+Log: Updated native class 'Class Engine.TexCoordSource'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexEnvMap.uc)
+Log: Class: TexEnvMap extends TexModifier
+Log: Updated native class 'Class Engine.TexEnvMap'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexMatrix.uc)
+Log: Class: TexMatrix extends TexModifier
+Log: Updated native class 'Class Engine.TexMatrix'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexModifier.uc)
+Log: Class: TexModifier extends Modifier
+Log: Updated native class 'Class Engine.TexModifier'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexOscillator.uc)
+Log: Class: TexOscillator extends TexModifier
+Log: Updated native class 'Class Engine.TexOscillator'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexOscillatorTriggered.uc)
+Log: Class: TexOscillatorTriggered extends TexOscillator
+Log: Updated native class 'Class Engine.TexOscillatorTriggered'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexPanner.uc)
+Log: Class: TexPanner extends TexModifier
+Log: Updated native class 'Class Engine.TexPanner'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexPannerTriggered.uc)
+Log: Class: TexPannerTriggered extends TexPanner
+Log: Updated native class 'Class Engine.TexPannerTriggered'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexRotator.uc)
+Log: Class: TexRotator extends TexModifier
+Log: Updated native class 'Class Engine.TexRotator'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TexScaler.uc)
+Log: Class: TexScaler extends TexModifier
+Log: Updated native class 'Class Engine.TexScaler'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Texture.uc)
+Log: Class: Texture extends BitmapMaterial
+Log: Updated native class 'Class Engine.Texture'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\TrailEmitter.uc)
+Log: Class: TrailEmitter extends ParticleEmitter
+Log: Updated native class 'Class Engine.TrailEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Trigger.uc)
+Log: Class: Trigger extends Triggers
+Log: Updated native class 'Class Engine.Trigger'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Triggers.uc)
+Log: Class: Triggers extends Actor
+Log: Updated native class 'Class Engine.Triggers'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\UserDefinableMaterial.uc)
+Log: Class: UserDefinableMaterial extends Material
+Log: Imported: Class Engine.UserDefinableMaterial
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\UseTrigger.uc)
+Log: Class: UseTrigger extends Triggers
+Log: Imported: Class Engine.UseTrigger
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Vehicle.uc)
+Log: Class: Vehicle extends Pawn
+Log: Updated native class 'Class Engine.Vehicle'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\VehiclePart.uc)
+Log: Class: VehiclePart extends Actor
+Log: Updated native class 'Class Engine.VehiclePart'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\VertexColor.uc)
+Log: Class: VertexColor extends RenderedMaterial
+Log: Updated native class 'Class Engine.VertexColor'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\VertMeshEmitter.uc)
+Log: Class: VertMeshEmitter extends ParticleEmitter
+Log: Updated native class 'Class Engine.VertMeshEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ViewportWindowController.uc)
+Log: Class: ViewportWindowController extends Actor
+Log: Imported: Class Engine.ViewportWindowController
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Vignette.uc)
+Log: Class: Vignette extends Actor
+Log: Updated native class 'Class Engine.Vignette'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\VoicePack.uc)
+Log: Class: VoicePack extends Info
+Log: Imported: Class Engine.VoicePack
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Volume.uc)
+Log: Class: Volume extends Brush
+Log: Updated native class 'Class Engine.Volume'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\VolumeTimer.uc)
+Log: Class: VolumeTimer extends info
+Log: Imported: Class Engine.VolumeTimer
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\WarpZoneInfo.uc)
+Log: Class: WarpZoneInfo extends ZoneInfo
+Log: Updated native class 'Class Engine.WarpZoneInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\WarpZoneMarker.uc)
+Log: Class: WarpZoneMarker extends SmallNavigationPoint
+Log: Updated native class 'Class Engine.WarpZoneMarker'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\Weapon.uc)
+Log: Class: Weapon extends Inventory
+Log: Updated native class 'Class Engine.Weapon'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\WeaponAttachment.uc)
+Log: Class: WeaponAttachment extends InventoryAttachment
+Log: Updated native class 'Class Engine.WeaponAttachment'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\WeaponFire.uc)
+Log: Class: WeaponFire extends Actor
+Log: Updated native class 'Class Engine.WeaponFire'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\WeaponPickup.uc)
+Log: Class: WeaponPickup extends Pickup
+Log: Imported: Class Engine.WeaponPickup
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\XAdminBase.uc)
+Log: Class: xAdminBase extends object
+Log: Imported: Class Engine.XAdminBase
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xAdminConfigBase.uc)
+Log: Class: xAdminConfigBase extends xAdminBase
+Log: Imported: Class Engine.xAdminConfigBase
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xAdminGroup.uc)
+Log: Class: xAdminGroup extends xAdminBase
+Log: Imported: Class Engine.xAdminGroup
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xAdminGroupList.uc)
+Log: Class: xAdminGroupList extends xAdminBase
+Log: Imported: Class Engine.xAdminGroupList
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xAdminUser.uc)
+Log: Class: xAdminUser extends xAdminBase
+Log: Imported: Class Engine.xAdminUser
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xAdminUserList.uc)
+Log: Class: xAdminUserList extends xAdminBase
+Log: Imported: Class Engine.xAdminUserList
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\XBoxPlayerInput.uc)
+Log: Class: XBoxPlayerInput extends PlayerInput
+Log: Imported: Class Engine.XBoxPlayerInput
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xEmitter.uc)
+Log: Class: xEmitter extends Actor
+Log: Updated native class 'Class Engine.xEmitter'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xMaterialController.uc)
+Log: Class: xMaterialController extends Actor
+Log: Imported: Class Engine.xMaterialController
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xMaterialTrigger.uc)
+Log: Class: xMaterialTrigger extends Actor
+Log: Imported: Class Engine.xMaterialTrigger
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xPickUpBase.uc)
+Log: Class: xPickUpBase extends Actor
+Log: Updated native class 'Class Engine.xPickUpBase'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xPrivilegeBase.uc)
+Log: Class: xPrivilegeBase extends Object
+Log: Imported: Class Engine.xPrivilegeBase
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xProcMesh.uc)
+Log: Class: xProcMesh extends Actor
+Log: Updated native class 'Class Engine.xProcMesh'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\xWeatherEffect.uc)
+Log: Class: xWeatherEffect extends Actor
+Log: Updated native class 'Class Engine.xWeatherEffect'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ZoneInfo.uc)
+Log: Class: ZoneInfo extends Info
+Log: Updated native class 'Class Engine.ZoneInfo'
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Engine\Classes\ZoneTrigger.uc)
+Log: Class: ZoneTrigger extends Trigger
+Log: Imported: Class Engine.ZoneTrigger
+Log: Parsing Engine
+Log: Parsing GameEngine
+Log: Parsing Actor
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Actor.pcx)
+Log: Imported Texture Engine.S_Actor
+Log: Parsing DecoVolumeObject
+Log: Parsing Keypoint
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Keypoint.pcx)
+Log: Imported Texture Engine.S_Keypoint
+Log: Parsing DecorationList
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\DecorationList.pcx)
+Log: Replaced palette Palette5 with Palette3
+Log: Imported Texture Engine.S_DecorationList
+Log: Parsing LookTarget
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\LookTarget.pcx)
+Log: Imported Texture Engine.S_LookTarget
+Log: Parsing AIScript
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\AIScript.pcx)
+Log: Imported Texture Engine.S_AIScript
+Log: Parsing InterpolationPoint
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\InterpolationPoint.pcx)
+Log: Imported Texture Engine.S_Interp
+Log: Parsing AmbientSound
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Ambient.pcx)
+Log: Imported Texture Engine.S_Ambient
+Log: Parsing PolyMarker
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_PolyMarker.pcx)
+Log: Replaced palette Palette15 with Palette13
+Log: Imported Texture Engine.S_PolyMarker
+Log: Parsing ClipMarker
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_ClipMarker.pcx)
+Log: Replaced palette Palette17 with Palette13
+Log: Imported Texture Engine.S_ClipMarker
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_ClipMarker1.pcx)
+Log: Replaced palette Palette19 with Palette13
+Log: Imported Texture Engine.S_ClipMarker1
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_ClipMarker2.pcx)
+Log: Replaced palette Palette21 with Palette13
+Log: Imported Texture Engine.S_ClipMarker2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_ClipMarker3.pcx)
+Log: Replaced palette Palette23 with Palette13
+Log: Imported Texture Engine.S_ClipMarker3
+Log: Parsing Info
+Log: Parsing TerrainInfo
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Terrain_info.pcx)
+Log: Imported Texture Engine.S_TerrainInfo
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_WhiteCircle.pcx)
+Log: Replaced palette Palette27 with Palette3
+Log: Imported Texture Engine.S_WhiteCircle
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Bad.pcx)
+Log: Imported Texture Engine.TerrainBad
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\DecoPaint.pcx)
+Log: Imported Texture Engine.DecoPaint
+Log: Parsing Security
+Log: Parsing SceneManager
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SceneManager.pcx)
+Log: Imported Texture Engine.S_SceneManager
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_MatineeIP.pcx)
+Log: Imported Texture Engine.S_MatineeIP
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_MatineeIPSel.pcx)
+Log: Replaced palette Palette37 with Palette35
+Log: Imported Texture Engine.S_MatineeIPSel
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_MatineeTimeMarker.pcx)
+Log: Imported Texture Engine.S_MatineeTimeMarker
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\ActionCamMove.pcx)
+Log: Imported Texture Engine.S_ActionCamMove
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\ActionCamPause.pcx)
+Log: Imported Texture Engine.S_ActionCamPause
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\PathLinear.pcx)
+Log: Replaced palette Palette45 with Palette3
+Log: Imported Texture Engine.S_PathLinear
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\PathBezier.pcx)
+Log: Replaced palette Palette47 with Palette3
+Log: Imported Texture Engine.S_PathBezier
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_BezierHandle.pcx)
+Log: Replaced palette Palette49 with Palette3
+Log: Imported Texture Engine.S_BezierHandle
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionIndicator.pcx)
+Log: Imported Texture Engine.SubActionIndicator
+Log: Parsing FluidSurfaceInfo
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_FluidSurf.pcx)
+Log: Imported Texture Engine.S_FluidSurf
+Log: Parsing GameInfo
+Log: Parsing Mutator
+Log: Parsing ReplicationInfo
+Log: Parsing TeamInfo
+Log: Parsing GameReplicationInfo
+Log: Parsing PlayerReplicationInfo
+Log: Parsing PotentialClimbWatcher
+Log: Parsing InternetInfo
+Log: Parsing SavedMove
+Log: Parsing ZoneInfo
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\ZoneInfo.pcx)
+Log: Replaced palette Palette55 with Palette3
+Log: Imported Texture Engine.S_ZoneInfo
+Log: Parsing WarpZoneInfo
+Log: Parsing SkyZoneInfo
+Log: Parsing LevelInfo
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\WireframeTexture.tga" -m DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\WireframeTexture.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\WireframeTexture.tga)
+Log: Imported Texture Engine.WireframeTexture
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\WhiteSquareTexture.pcx)
+Log: Replaced palette Palette57 with Palette31
+Log: Imported Texture Engine.WhiteSquareTexture
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\S_Vertex.tga" -m DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\S_Vertex.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Vertex.tga)
+Log: Imported Texture Engine.LargeVertex
+Log: Parsing GameStats
+Log: Parsing FileLog
+Log: Parsing AccessControl
+Log: Parsing BroadcastHandler
+Log: Parsing LocalMessage
+Log: Parsing FailedConnect
+Log: Parsing GameMessage
+Log: Parsing GameRules
+Log: Parsing L2FogInfo
+Log: Parsing MapList
+Log: Parsing ScoreBoard
+Log: Parsing VoicePack
+Log: Parsing VolumeTimer
+Log: Parsing StaticMeshActor
+Log: Parsing L2MovableStaticMeshActor
+Log: Parsing MatDemoActor
+Log: Parsing Projector
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Proj_IconMasked.pcx)
+Log: Imported Texture Engine.Proj_Icon
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\GRADIENT_Fade.tga" DXT3 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\GRADIENT_Fade.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\GRADIENT_Fade.tga)
+Log: Imported Texture Engine.GRADIENT_Fade
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\GRADIENT_Clip.tga" DXT3 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\GRADIENT_Clip.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\GRADIENT_Clip.tga)
+Log: Imported Texture Engine.GRADIENT_Clip
+Log: Parsing DynamicProjector
+Log: Parsing MarkProjector
+Log: Parsing ShadowProjector
+Log: Parsing Pawn
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Pawn.pcx)
+Log: Replaced palette Palette61 with Palette3
+Log: Imported Texture Engine.S_Pawn
+Log: Parsing Vehicle
+Log: Parsing Scout
+Log: Parsing KVehicle
+Log: Parsing NAgathion
+Log: Parsing Emitter
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Emitter.pcx)
+Log: Imported Texture Engine.S_Emitter
+Log: Parsing L2Indicator
+Log: Parsing NCubics
+Log: Parsing NProjectile
+Log: Parsing NSkillProjectile
+Log: Parsing Mover
+Log: Parsing PrecacheHack
+Log: Parsing FluidSurfaceOscillator
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_FluidSurfOsc.pcx)
+Log: Imported Texture Engine.S_FluidSurfOsc
+Log: Parsing Triggers
+Log: Parsing AvoidMarker
+Log: Parsing LineOfSightTrigger
+Log: Parsing Trigger
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Trigger.pcx)
+Log: Replaced palette Palette67 with Palette3
+Log: Imported Texture Engine.S_Trigger
+Log: Parsing ZoneTrigger
+Log: Parsing MaterialTrigger
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\MaterialTrigger.pcx)
+Log: Replaced palette Palette69 with Palette3
+Log: Imported Texture Engine.S_MaterialTrigger
+Log: Parsing MusicTrigger
+Log: Parsing UseTrigger
+Log: Parsing NavigationPoint
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Pickup.pcx)
+Log: Replaced palette Palette71 with Palette1
+Log: Imported Texture Engine.S_Pickup
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SpwnAI.pcx)
+Log: Replaced palette Palette73 with Palette3
+Log: Imported Texture Engine.S_NavP
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SiteLite.pcx)
+Log: Replaced palette Palette75 with Palette3
+Log: Imported Texture Engine.S_Alarm
+Log: Parsing JumpDest
+Log: Parsing JumpPad
+Log: Parsing Door
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Door.pcx)
+Log: Imported Texture Engine.S_Door
+Log: Parsing AutoDoor
+Log: Parsing SmallNavigationPoint
+Log: Parsing Ladder
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Ladder.pcx)
+Log: Imported Texture Engine.S_Ladder
+Log: Parsing AutoLadder
+Log: Parsing WarpZoneMarker
+Log: Parsing AIMarker
+Log: Parsing InventorySpot
+Log: Parsing PlayerStart
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Player.pcx)
+Log: Replaced palette Palette81 with Palette1
+Log: Imported Texture Engine.S_Player
+Log: Parsing Teleporter
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Teleport.pcx)
+Log: Replaced palette Palette83 with Palette3
+Log: Imported Texture Engine.S_Teleport
+Log: Parsing LiftExit
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Lift_exit.pcx)
+Log: Replaced palette Palette85 with Palette25
+Log: Imported Texture Engine.S_LiftExit
+Log: Parsing LiftCenter
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Lift_center.pcx)
+Log: Replaced palette Palette87 with Palette25
+Log: Imported Texture Engine.S_LiftCenter
+Log: Parsing PathNode
+Log: Parsing AntiPortalActor
+Log: Parsing InventoryAttachment
+Log: Parsing WeaponAttachment
+Log: Parsing Brush
+Log: Parsing Volume
+Log: Parsing BlockingVolume
+Log: Parsing PhysicsVolume
+Log: Parsing LadderVolume
+Log: Parsing DefaultPhysicsVolume
+Log: Parsing DamageType
+Log: Parsing Crushed
+Log: Parsing DamTypeTelefragged
+Log: Parsing fell
+Log: Parsing FellLava
+Log: Parsing Gibbed
+Log: Parsing Suicided
+Log: Parsing VehiclePart
+Log: Parsing Controller
+Log: Parsing PlayerController
+Log: Parsing Camera
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Camera.pcx)
+Log: Replaced palette Palette89 with Palette1
+Log: Imported Texture Engine.S_Camera
+Log: Parsing MessagingSpectator
+Log: Parsing DemoRecSpectator
+Log: Parsing AIController
+Log: Parsing Inventory
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Inventry.pcx)
+Log: Replaced palette Palette91 with Palette3
+Log: Imported Texture Engine.S_Inventory
+Log: Parsing Ammunition
+Log: Parsing Powerups
+Log: Parsing Armor
+Log: Parsing Weapon
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Weapon.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Weapon.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Weapon.tga)
+Log: Imported Texture Engine.S_Weapon
+Log: Parsing Pickup
+Log: Parsing Ammo
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Ammo.pcx)
+Log: Replaced palette Palette93 with Palette13
+Log: Imported Texture Engine.S_Ammo
+Log: Parsing ArmorPickup
+Log: Parsing WeaponPickup
+Log: Parsing HUD
+Log: Parsing Projectile
+Log: Parsing Decoration
+Log: Parsing Vignette
+Log: Parsing Note
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Note.pcx)
+Log: Replaced palette Palette95 with Palette3
+Log: Imported Texture Engine.S_Note
+Log: Parsing WeaponFire
+Log: Parsing Light
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Light.pcx)
+Log: Imported Texture Engine.S_Light
+Log: Parsing KActor
+Log: Parsing KTire
+Log: Parsing KConstraint
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_KConstraint.pcx)
+Log: Imported Texture Engine.S_KConstraint
+Log: Parsing KCarWheelJoint
+Log: Parsing KConeLimit
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_KConeLimit.pcx)
+Log: Replaced palette Palette101 with Palette99
+Log: Imported Texture Engine.S_KConeLimit
+Log: Parsing KHinge
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_KHinge.pcx)
+Log: Replaced palette Palette103 with Palette99
+Log: Imported Texture Engine.S_KHinge
+Log: Parsing KBSJoint
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_KBSJoint.pcx)
+Log: Replaced palette Palette105 with Palette99
+Log: Imported Texture Engine.S_KBSJoint
+Log: Parsing xWeatherEffect
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\S_Wind.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\S_Wind.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Wind.tga)
+Log: Imported Texture Engine.S_Wind
+Log: Parsing xProcMesh
+Log: Parsing xPickUpBase
+Log: Parsing xEmitter
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\S_Emitter.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\S_Emitter.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_Emitter.tga)
+Log: Imported Texture Engine.S_Emitter
+Log: Parsing CarriedObject
+Log: Parsing Decal
+Log: Parsing Effects
+Log: Parsing Fragment
+Log: Parsing KVehicleFactory
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\S_KVehFact.pcx)
+Log: Imported Texture Engine.S_KVehFact
+Log: Parsing L2Alarm
+Log: Parsing L2CenterdDiamond
+Log: Parsing L2Dice
+Log: Parsing L2Float
+Log: Parsing L2NMover
+Log: Parsing NLine
+Log: Parsing NMoon
+Log: Parsing ViewportWindowController
+Log: Parsing xMaterialController
+Log: Parsing xMaterialTrigger
+Log: Parsing ParticleEmitter
+Log: Parsing VertMeshEmitter
+Log: Parsing TrailEmitter
+Log: Parsing SpriteEmitter
+Log: Parsing SparkEmitter
+Log: Parsing MeshEmitter
+Log: Parsing BeamEmitter
+Log: Parsing Material
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\DefaultTexture.pcx)
+Log: Imported Texture Engine.DefaultTexture
+Log: Parsing RenderedMaterial
+Log: Parsing BitmapMaterial
+Log: Parsing Texture
+Log: Parsing Cubemap
+Log: Parsing RealtimeGenerationTexture
+Log: Parsing ColorMask
+Log: Parsing ColorWheel
+Log: Parsing MaskTexture
+Log: Parsing ShadowBitmapMaterial
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\blobshadow.tga" -m DXT3 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\blobshadow.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\blobshadow.tga)
+Log: Imported Texture Engine.BlobTexture
+Log: Parsing ScriptedTexture
+Log: Parsing TerrainMaterial
+Log: Parsing ProjectorMaterial
+Log: Parsing ParticleMaterial
+Log: Parsing VertexColor
+Log: Parsing ConstantMaterial
+Log: Parsing FadeColor
+Log: Parsing ConstantColor
+Log: Parsing Shader
+Log: Parsing Modifier
+Log: Parsing OpacityModifier
+Log: Parsing MaterialSequence
+Log: Parsing MaterialSwitch
+Log: Parsing FinalBlend
+Log: Parsing TexModifier
+Log: Parsing TexCoordSource
+Log: Parsing TexMatrix
+Log: Parsing TexEnvMap
+Log: Parsing TexOscillator
+Log: Parsing TexOscillatorTriggered
+Log: Parsing TexRotator
+Log: Parsing TexScaler
+Log: Parsing TexPanner
+Log: Parsing TexPannerTriggered
+Log: Parsing ColorModifier
+Log: Parsing GlowModifier
+Log: Parsing L2ColorModifier
+Log: Parsing Combiner
+Log: Parsing UserDefinableMaterial
+Log: Parsing Palette
+Log: Parsing AnimNotify
+Log: Parsing AnimNotify_MatSubAction
+Log: Parsing AnimNotify_Scripted
+Log: Parsing AnimNotify_Trigger
+Log: Parsing AnimNotify_Script
+Log: Parsing AnimNotify_Sound
+Log: Parsing AnimNotify_DestroyEffect
+Log: Parsing AnimNotify_Effect
+Log: Parsing MatObject
+Log: Parsing MatSubAction
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionFOV.pcx)
+Log: Imported Texture Engine.SubActionFOV
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionTrigger.pcx)
+Log: Imported Texture Engine.SubActionTrigger
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionOrientation.pcx)
+Log: Imported Texture Engine.SubActionOrientation
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionFade.pcx)
+Log: Imported Texture Engine.SubActionFade
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionGameSpeed.pcx)
+Log: Imported Texture Engine.SubActionGameSpeed
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionSceneSpeed.pcx)
+Log: Imported Texture Engine.SubActionSceneSpeed
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\SubActionCameraShake.pcx)
+Log: Replaced palette Palette123 with Palette111
+Log: Imported Texture Engine.SubActionCameraShake
+Log: Parsing SubActionSceneSpeed
+Log: Parsing SubActionGameSpeed
+Log: Parsing SubActionOrientation
+Log: Parsing SubActionCameraShake
+Log: Parsing SubActionFOV
+Log: Parsing SubActionTrigger
+Log: Parsing SubActionFade
+Log: Parsing SubActionCameraEffect
+Log: Parsing MatAction
+Log: Parsing ActionPause
+Log: Parsing ActionMoveCamera
+Log: Parsing MeshObject
+Log: Parsing Player
+Log: Parsing PlayInfo
+Log: Parsing Interactions
+Log: Parsing InteractionMaster
+Log: Parsing Interaction
+Log: Parsing BaseGUIController
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\White.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\White.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\White.tga)
+Log: Imported Texture Engine.MenuWhite
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Black.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Black.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Black.tga)
+Log: Imported Texture Engine.MenuBlack
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Gray.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Gray.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Gray.tga)
+Log: Imported Texture Engine.MenuGray
+Log: Parsing Console
+Log: Parsing AdminBase
+Log: Parsing Admin
+Log: Parsing PlayerInput
+Log: Parsing XBoxPlayerInput
+Log: Parsing CheatManager
+Log: Parsing Canvas
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\White.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\White.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\White.tga)
+Log: Imported Texture Engine.WhiteTexture
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Black.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Black.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Black.tga)
+Log: Imported Texture Engine.BlackTexture
+Log: Shelling xDxTex.exe "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Gray.tga" DXT1 "C:\Users\Shane\Desktop\Deadz_Source\Engine\Textures\Gray.dds"
+Log: *** Error spawning xDxTex.exe errno: 2
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 Textures\Gray.tga)
+Log: Imported Texture Engine.GrayTexture
+Log: FactoryCreateBinary: Font with FontFactory (0 0 Textures\SmallFont.bmp)
+Log: Parsing CameraEffect
+Log: Parsing CameraOverlay
+Log: Parsing MotionBlur
+Log: Parsing I3DL2Listener
+Log: Parsing Sound
+Log: Parsing SoundGroup
+Log: Parsing ProceduralSound
+Log: Parsing GameProfile
+Log: Parsing Manifest
+Log: Parsing LogEntry
+Log: Parsing LevelSummary
+Log: Parsing ReachSpec
+Log: Parsing Spline
+Log: Parsing KarmaParamsCollision
+Log: Parsing KarmaParams
+Log: Parsing KarmaParamsSkel
+Log: Parsing KarmaParamsRBFull
+Log: Parsing Bitmap
+Log: Parsing ExtraMeshData
+Log: Parsing L2EffectEmitter
+Log: Parsing L2SkillEffect
+Log: Parsing LadderInfo
+Log: Parsing MatchInfo
+Log: Parsing MeshComponent
+Log: Parsing MeshContainer
+Log: Parsing ObjectPool
+Log: Parsing PawnSheathingMgr
+Log: Parsing Resource
+Log: Parsing SimulationCollision
+Log: Parsing XAdminBase
+Log: Parsing xAdminConfigBase
+Log: Parsing xAdminGroup
+Log: Parsing xAdminGroupList
+Log: Parsing xAdminUser
+Log: Parsing xAdminUserList
+Log: Parsing xPrivilegeBase
+Log: Compiling Engine
+Log: Compiling GameEngine
+Log: Compiling Actor
+Log: Compiling DecoVolumeObject
+Log: Compiling Keypoint
+Log: Compiling DecorationList
+Log: Compiling LookTarget
+Log: Compiling AIScript
+Log: Compiling InterpolationPoint
+Log: Compiling AmbientSound
+Log: Compiling PolyMarker
+Log: Compiling ClipMarker
+Log: Compiling Info
+Log: Compiling TerrainInfo
+Log: Compiling Security
+Log: Compiling SceneManager
+Log: Compiling FluidSurfaceInfo
+Log: Compiling Mutator
+Log: Compiling ReplicationInfo
+Log: Compiling TeamInfo
+Log: Compiling GameReplicationInfo
+Log: Compiling PlayerReplicationInfo
+Log: Compiling PotentialClimbWatcher
+Log: Compiling InternetInfo
+Log: Compiling SavedMove
+Log: Compiling ZoneInfo
+Log: Compiling WarpZoneInfo
+Log: Compiling SkyZoneInfo
+Log: Compiling LevelInfo
+Log: Compiling GameInfo
+Error: C:\Users\Shane\Desktop\Deadz_Source\Engine\Classes\GameInfo.uc(232) : Error, 'debug': Bad command or expression
+Log: Compile aborted due to errors.
+Log: Failure - 1 error(s), 0 warning(s)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Core.dll
+Log: Unbound to Editor.dll
+Log: Unbound to Engine.dll
+Exit: Editor shut down
+Log: Garbage: objects: 11981->0; refs: 0
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: Waiting for file streaming thread to finish...
+Init: CPU FP precision changed from 53 to 64-bit
+Uninitialized: Name subsystem shut down
+Uninitialized: Allocation checking disabled
+Uninitialized: Log file closed, 10/05/23 22:18:00
