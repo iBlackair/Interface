@@ -229,7 +229,6 @@ function ChangeMap(int ContextID) // sjs
     {
         return;
     }
-	debug(MapString);
     Level.ServerTravel(MapString, false);
 }
 static function bool UseLowGore()
